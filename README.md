@@ -19,6 +19,7 @@ Pre-built images are available at `gcr.io/cloud-builders/...` and include:
 *   `npm`: runs the [npm](https://docs.npmjs.com/) tool
 *   `wget`: runs the [wget](https://www.gnu.org/software/wget/) tool
 *   `yarn`: runs the [yarn](https://yarnpkg.com/) tool
+*   `serverless`: runs the [serverless](https://serverless.com/) tool
 
 Builders contributed by the public are available in the [Cloud Builders
 Community
